@@ -1,0 +1,2 @@
+class Memoa < ApplicationRecord
+end

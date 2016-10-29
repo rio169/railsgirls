@@ -1,0 +1,1 @@
+json.partial! "memoas/memoa", memoa: @memoa
